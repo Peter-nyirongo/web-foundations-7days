@@ -1,4 +1,4 @@
-# SnapShare — Scaling Plan
+ SnapShare — Scaling Plan
 
 This document is the Day 7 assignment for the SnapShare photo-sharing application.
 
